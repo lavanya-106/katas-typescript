@@ -1,5 +1,3 @@
-// Let's get started!
-console.log("Let's get started!");
 
 var variableA: number = 2;
 var variableB: number = 3;
